@@ -1,2 +1,2 @@
-# My_Test
+# Calculator
 Everything for learning purposes 
